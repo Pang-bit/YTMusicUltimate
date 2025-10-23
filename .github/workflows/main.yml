@@ -5,7 +5,7 @@ on:
     inputs: 
       ipa_url:
         description: "URL to the decrypted IPA file"
-        default: ""
+        default: "https://filebin.net/34vs8bn632y91tt3/com.google.ios.youtube-20.42.3-Decrypted.ipa"
         required: true
         type: string
 
